@@ -1,0 +1,2 @@
+# Prevent All Access
+deny from all
